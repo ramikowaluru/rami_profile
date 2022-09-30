@@ -1,2 +1,2 @@
 # rami_profile
-Rami profiler built using rust and react
+Rami's profile site using rust and react
